@@ -1,0 +1,121 @@
+[
+    {
+        "nom": "Direction régionale et interdépartementale de l'hébergement et du logement (DRIHL) - Île-de-France",
+        "adresse": [
+            {
+                "type_adresse": "adresse",
+                "complement1": "Le Ponant",
+                "complement2": "",
+                "numero_voie": "5 rue Leblanc",
+                "service_distribution": "",
+                "code_postal": "75015",
+                "nom_commune": "Paris",
+                "pays": "",
+                "continent": "",
+                "longitude": "2.27178",
+                "latitude": "48.8402",
+                "accessibilite": "",
+                "note_accessibilite": ""
+            },
+            {
+                "type_adresse": "adresse postale",
+                "complement1": "Le Ponant",
+                "complement2": "",
+                "numero_voie": "5 rue Leblanc",
+                "service_distribution": "",
+                "code_postal": "75911",
+                "nom_commune": "Paris Cedex 15",
+                "pays": "",
+                "continent": "",
+                "longitude": "",
+                "latitude": "",
+                "accessibilite": "",
+                "note_accessibilite": ""
+            }
+        ],
+        "site_internet": [
+            {
+                "libelle": "",
+                "valeur": "https: //www.drihl.ile-de-france.developpement-durable.gouv.fr/"
+            }
+        ]
+    },
+    {
+        "nom": "Direction de la stratégie et de la transformation (CHU) - Assistance publique - Hôpitaux de Paris",
+        "adresse": [
+            {
+                "type_adresse": "adresse",
+                "complement1": "",
+                "complement2": "",
+                "numero_voie": "3 rue Victoria",
+                "service_distribution": "",
+                "code_postal": "75184",
+                "nom_commune": "Paris Cedex 04",
+                "pays": "",
+                "continent": "",
+                "longitude": "2.350401",
+                "latitude": "48.856857",
+                "accessibilite": "",
+                "note_accessibilite": ""
+            }
+        ],
+        "site_internet": [
+            {
+                "libelle": "",
+                "valeur": "https: //www.aphp.fr/"
+            }
+        ]
+    },
+    {
+        "nom": "Direction de la police judiciaire - Paris",
+        "adresse": [
+            {
+                "type_adresse": "adresse",
+                "complement1": "",
+                "complement2": "",
+                "numero_voie": "36 rue du Bastion",
+                "service_distribution": "",
+                "code_postal": "75017",
+                "nom_commune": "Paris",
+                "pays": "",
+                "continent": "",
+                "longitude": "2.34243",
+                "latitude": "48.8559",
+                "accessibilite": "",
+                "note_accessibilite": ""
+            }
+        ],
+        "site_internet": [
+            {
+                "libelle": "",
+                "valeur": "http: //www.prefecture-police-paris.interieur.gouv.fr"
+            }
+        ]
+    },
+    {
+        "nom": "Direction de la recherche clinique, de l'innovation, des relations avec les universités et les organismes de recherche (CHU) - Assistance publique - Hôpitaux de Paris",
+        "adresse": [
+            {
+                "type_adresse": "adresse",
+                "complement1": "",
+                "complement2": "",
+                "numero_voie": "3 rue Victoria",
+                "service_distribution": "",
+                "code_postal": "75184",
+                "nom_commune": "Paris Cedex 04",
+                "pays": "",
+                "continent": "",
+                "longitude": "2.350401",
+                "latitude": "48.856857",
+                "accessibilite": "",
+                "note_accessibilite": ""
+            }
+        ],
+        "site_internet": [
+            {
+                "libelle": "",
+                "valeur": "https: //www.aphp.fr/"
+            }
+        ]
+    }
+]
